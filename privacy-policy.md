@@ -22,8 +22,7 @@ Our app requires location information transmitted from users' mobile phones for 
 #### Other user data
 Our app allows the user to send pictures to our backend database securely. This is entirely up to the user and we will not be able to access unauthorized user data.
 
-*The user has the option to delete all their data within the app. If they have trouble in doing so, we provide an email address so that data is deleted available at https://www.habreports.org/habappusers/info/.*
-
+*The user has the option to delete all their data within the app. If they have trouble in doing so, they should email us at samshabapp@gmail.com
 ### Security  
 We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it.
 
