@@ -32,6 +32,14 @@ This Services do not address anyone under the age of 13. We do not knowingly col
 ### Changes to This Privacy Policy  
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.  
 
+### Disclaimer
+
+The thresholds, forecasts, and risk indicators presented within the HAB Reports app are intended as a general reference guide only. They do not constitute a directive to close or restrict any harvesting site.
+
+All operational and management decisions remain at the discretion of the site operator and should be informed by official control monitoring results provided by Food Standards Scotland and other relevant regulatory authorities.
+
+While reasonable efforts are made to ensure the accuracy and timeliness of the information presented, the Scottish Association for Marine Science makes no guarantees regarding completeness, accuracy, or suitability for operational decision-making.
+
 ### Contact Us  
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.  
 Contact Information:  
